@@ -15,7 +15,7 @@ export default function Home() {
       <Courses />
       <Join />
       <Message />
-      <Header>Made By: Syed Muhammad Ashhar</Header>
+      <Header>Made By: Syed Muhammad Ashhar (PIAIC140291)</Header>
     </ChakraProvider>
   )
 }

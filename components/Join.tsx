@@ -21,9 +21,8 @@ export default function Join() {
                         width='200px'
                         border='2px' fontFamily='sans-serif' fontSize={'5xl'} color='#9B2C2C' onClick={() => router.push('https://portal.piaic.org/signup')} variant='solid'>Join</Button>
                 </Center>
-                <Box w='full' alignItems={'center'} px='3'>
-                    <Image position={'relative'} p='8
-                    ' objectFit='cover' src='https://www.panaverse.co/red-p-logo-text_dao_croped.png' fallbackSrc='https://via.placeholder.com/150' />
+                <Box w='full' alignItems={'center'} p='20'>
+                    <Image position={'relative'} p='8' py='24' objectFit='cover' src='https://qph.cf2.quoracdn.net/main-qimg-996b56dd84d66d45240f42d9f06fb73f-pjlq' fallbackSrc='https://via.placeholder.com/150' />
                 </Box>
             </Flex>
         </Box>
