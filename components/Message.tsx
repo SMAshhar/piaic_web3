@@ -6,9 +6,9 @@ export default function Message() {
         <VStack p={'16'}>
             
                 <Heading py={8} color='#9B2C2C'>
-                    Message By Faculty
+                    Message By Sir Zia Khan
                 </Heading>
-                <Text color='#9B2C2C'>The message from great Sir Zia</Text>
+                <Text color='#9B2C2C'>Save the country and get rich in the process</Text>
             
         </VStack>
 
